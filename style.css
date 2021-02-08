@@ -1,0 +1,155 @@
+h3{
+  font-family: cursive;
+  font-size: 35px;
+}
+h2{
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+hr{
+  margin-top: 0;
+  padding-top: 0;
+}
+a{
+  text-decoration: none;
+}
+
+.top_container{
+  color: white;
+  background-image: url("/home/sarath/Documents/replica1/bg_top_container1.jpg");
+  padding: 30px 0 100px 70px;
+}
+.Testimonials{
+  padding-left: 20px;
+}
+
+.mid_container{
+  display: flex;
+  padding: 40px 120px 20px 120px;
+  background-color: #f6f6f6;
+}
+.col-md-4 {
+  flex: 0 0 auto;
+  width: 33.3333333333%;
+}
+.card {
+  text-align: center;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+  word-wrap: break-word;
+  background-color: #fff;
+  background-clip: border-box;
+  /* border: 1px solid rgba(0, 0, 0, 0.125); */
+  /* padding: 10px 10px 10px 10px; */
+  border-radius: 0.25rem;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+.mb-4 {
+  margin-bottom: 1.5rem;
+}
+.icon{
+  margin-top: 10px;
+  text-align: center;
+}
+.diamond{
+  width: 18%;
+  height: 18%;
+}
+[class^="mid_t"]{
+  color: rgba(0, 0, 0, 0.4);
+  font-family: 'Pangolin', cursive;
+  font-size: 20px;
+}
+.card-top{
+  background-color: #f6f6f6;
+}
+.card-body{
+  text-align: center;
+  border: 1px solid;
+  border-color: lightgrey;
+  padding: 10px 10px 10px 10px;
+}
+.card-img{
+  width: 20%;
+  height: 60%;
+  border-radius: 100%;
+  color: rgba(0, 0, 0, 0.9);
+  margin: 10px 0 20px 0;
+}
+.card-text{
+  color: rgba(0, 0, 0, 0.4);
+}
+.btn1 {
+  -webkit-border-radius: 0;
+  -moz-border-radius: 0;
+  border-radius: 0px;
+  font-family: Georgia;
+  color: #ffffff;
+  font-size: 13px;
+  background: #23689b;
+  padding: 10px 10px 10px 10px;
+  text-decoration: none;
+}
+
+.btn1:hover {
+  background: lightblue;
+  text-decoration: none;
+}
+.name{
+  text-align: left;
+}
+.right  {
+  text-align: right;
+  color: rgba(0, 0, 0, 0.7);
+  font-size: 20px;
+  font-family: 'Source Sans Pro', sans-serif;
+}
+.text{
+    color: #686d76;
+    font-weight: 1000;
+}
+.designation{
+  text-align: left;
+}
+.author{
+  text-align: right;
+  font-size: 20px;
+  color: light-grey;
+}
+.download{
+  font-weight: bold;
+  text-align: center;
+  padding: 10px 0 10px 0;
+
+}
+.btn {
+  -webkit-border-radius: 0;
+  -moz-border-radius: 0;
+  border-radius: 0px;
+  font-family: Georgia;
+  color: #ffffff;
+  font-size: 15px;
+  background: #e65f29;
+  padding: 10px 10px 10px 10px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #6fb58d;
+  text-decoration: none;
+}
+.mid_container_1{
+  padding: 15px 120px 20px 120px;
+  background-color: #f6f6f6;
+}
+.bottom_container{
+  display: flex;
+  background-color: #f6f6f6;
+}
+
+#p_1{
+  font-size: 15px;
+}
