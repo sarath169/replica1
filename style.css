@@ -161,7 +161,9 @@ a{
   display: flex;
   background-color: #f6f6f6;
 }
-
+.google:hover{
+  color: #62959c;
+}
 #p_1{
   font-size: 15px;
 }
