@@ -16,7 +16,7 @@ a{
 
 .top_container{
   color: white;
-  background-image: url("bg_top_container1.jpg");
+  background-image: url("https://github.com/sarath169/replica1/blob/main/bg_top_container1.jpg");
   padding: 30px 0 100px 70px;
 }
 .Testimonials{
@@ -54,6 +54,9 @@ a{
   margin-top: 10px;
   text-align: center;
 }
+.center{
+  text-align: center;
+}
 .diamond{
   width: 18%;
   height: 18%;
@@ -67,8 +70,10 @@ a{
   background-color: #f6f6f6;
 }
 .card-body{
-  text-align: center;
+  text-align: left;
   border: 1px solid;
+  color: #686d76;
+
   border-color: lightgrey;
   padding: 10px 10px 10px 10px;
 }
@@ -79,9 +84,9 @@ a{
   color: rgba(0, 0, 0, 0.9);
   margin: 10px 0 20px 0;
 }
-.card-text{
+/* .card-text{
   color: rgba(0, 0, 0, 0.4);
-}
+} */
 .btn1 {
   -webkit-border-radius: 0;
   -moz-border-radius: 0;
